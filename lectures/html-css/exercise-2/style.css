@@ -1,0 +1,51 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.page-heading {
+    text-align: center;
+}
+
+.section-heading {
+    text-align: center;
+}
+
+.col {
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.new-summary {
+    border: 1px solid #CCC;
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+
+.new-summary--title {
+    border-bottom: 1px solid #CCC;
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.new-summary--image,
+.new--image {
+    width: 100%;
+}
+
+.new-summary--content {
+    padding: 10px 20px;
+}
+
+.new--heading {
+    text-align: center;
+}
